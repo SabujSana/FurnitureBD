@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:checked="true"
+            android:id="@+id/chair"
+            android:title="@string/chair"
+            android:icon="@drawable/chair_logo"/>
+        <item
+            android:checked="true"
+            android:id="@+id/table"
+            android:title="@string/table"
+            android:icon="@drawable/chair_logo"/>
+        <item
+            android:checked="true"
+            android:id="@+id/bed"
+            android:title="@string/bed"
+            android:icon="@drawable/chair_logo"/>
+        <item
+            android:checked="true"
+            android:id="@+id/alna"
+            android:title="@string/alna"
+            android:icon="@drawable/chair_logo"/>
+        <item
+            android:checked="true"
+            android:id="@+id/almirah"
+            android:title="@string/almirah"
+            android:icon="@drawable/chair_logo"/>
+        <item
+            android:checked="true"
+            android:id="@+id/wardrobe"
+            android:title="@string/wardrobe"
+            android:icon="@drawable/chair_logo"/>
+
+    </group>
+
+</menu>

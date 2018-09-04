@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FurnitureBD</string>
+    <string name="chair">Chair</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+    <string name="backdrop_title">LOVE MUSICS</string>
+    <string name="backdrop_subtitle">This season top 20 music</string>
+    <string name="table">Table</string>
+    <string name="price">Price</string>
+    <string name="model">Model</string>
+    <string name="bed">Bed</string>
+    <string name="alna">Alna</string>
+    <string name="almirah">Almirah</string>
+    <string name="wardrobe">Wardrobe</string>
+</resources>
